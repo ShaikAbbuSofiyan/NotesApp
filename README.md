@@ -2,6 +2,7 @@
 
 ## Backend Folder structure
 
+<pre> ## 📂 Backend Folder Structure ```bash
 backend/
 │
 ├── src/
@@ -39,3 +40,4 @@ backend/
 ├── package.json
 ├── .gitignore
 └── README.md
+``` </pre>
